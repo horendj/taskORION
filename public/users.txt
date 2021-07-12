@@ -1,0 +1,142 @@
+[
+{
+"name": "Leanne Graham",
+"email": "Sincere@april.biz",
+"address": {
+"street": "Kulas Light",
+"suite": "Apt. 556",
+"city": "Gwenborough"
+  },
+"company": {
+"name": "Romaguera-Crona"
+  },
+"salary": "50000",
+"car": "Toyota"
+},
+{
+"name": "Samwell Howell",
+"email": "Shamma@melissa.tv",
+"address": {
+"street": "Victor Plains",
+"suite": "Suite 879",
+"city": "Wisokyburgh"
+  },
+"company": {
+"name": "Deckow-Crist"
+  },
+"salary": "25000",
+"car": ""
+},
+{
+"name": "Clementine Bauch",
+"email": "Nathan@yesenia.net",
+"address": {
+"street": "Douglas Extension",
+"suite": "Suite 847",
+"city": "Aliyaview"
+  },
+"company": {
+"name": "Abernathy Group"
+  },
+"salary": "42000",
+"car": ""
+},
+{
+"name": "Patricia Lebsack",
+"email": "Julianne.OConner@kory.org",
+"address": {
+"street": "Hoeger Mall",
+"suite": "Apt. 692",
+"city": "South Elvis"
+  },
+"company": {
+"name": "Robel-Corkery"
+  },
+"salary": "25000",
+"car": ""
+},
+{
+"name": "Chelsey Dietrich",
+"email": "Lucio_Hettinger@annie.ca",
+"address": {
+"street": "Skiles Walks",
+"suite": "Suite 351",
+"city": "Roscoeview",
+  },
+"company": {
+"name": "Keebler LLC"
+  },
+"salary": "34000",
+"car": "Nissan"
+},
+{
+"name": "Dennis Schulist",
+"email": "Karley_Dach@jasper.info",
+"address": {
+"street": "Norberto Crossing",
+"suite": "Apt. 950",
+"city": "South Christy"
+  },
+"company": {
+"name": "Considine-Lockman"
+  },
+"salary": "42000",
+"car": ""
+},
+{
+"name": "Kurtis Weissnat",
+"email": "Telly.Hoeger@billy.biz",
+"address": {
+"street": "Rex Trail",
+"suite": "Suite 280",
+"city": "Howemouth"
+  },
+"company": {
+"name": "Johns Group"
+  },
+"salary": "27000",
+"car": ""
+},
+{
+"name": "Nicholas Runolfsdottir V",
+"email": "Sherwood@rosamond.me",
+"address": {
+"street": "Kattie Turnpike",
+"suite": "Suite 729",
+"city": "Aliyaview"
+  },
+"company": {
+"name": "Abernathy Group"
+  },
+"salary": "52000",
+"car": "Audi"
+},
+{
+"name": "Glenna Reichert",
+"email": "Chaim_McDermott@dana.io",
+"address": {
+"street": "Dayna Park",
+"suite": "Suite 449",
+"city": "Bartholomebury"
+  },
+"company": {
+"name": "Yost and Sons",
+  },
+"salary": "36000",
+"car": ""
+},
+{
+"name": "Clementina DuBuque",
+"email": "Rey.Padberg@karina.biz",
+"address": {
+"street": "Kattie Turnpike",
+"suite": "Suite 198",
+"city": "Aliyaview"
+  },
+"company": {
+"name": "Abernathy Group"
+  },
+"salary": "46000",
+"car": "Audi"
+}
+]
